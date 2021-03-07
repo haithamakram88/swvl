@@ -1,0 +1,6 @@
+fastapi==0.57.0
+uvicorn
+pymongo
+pika
+pytest
+python-dotenv
